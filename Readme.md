@@ -1,7 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Kirill Soldatov](https://up.htmlacademy.ru/htmlcss/26/user/1132429).
-
+* Наставник: [Владислав Ермолаев](https://htmlacademy.ru/profile/id128353)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
